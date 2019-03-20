@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  font-family: optima;
+  font-size: 20px;
+  color: #8B4513;
+}
+
+.intro {
+  font-style: italic;
+  font-size: 18px;
+  color: grey;
+}
+
+img.shelter {
+  float: left;
+}
+
+.shelter {
+  float: left;
+}
+
+.top {
+  color: #800000;
+  font-family: optima;
+  font-size: 20px;
+  margin: 10px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  margin: 16px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: #FFDAB9;
+  text-align: center;
+}
